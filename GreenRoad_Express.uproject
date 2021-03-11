@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
+	]
+}
